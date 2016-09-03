@@ -17,6 +17,7 @@ npm run dev
 ## loaders
 使用了如下一些loader
 * babel-loader
+  xxxx
 * css-loader
 * style-loader
 * url-loader
