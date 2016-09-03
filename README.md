@@ -1,8 +1,7 @@
 
-## Webpack + React
+### Webpack + React
 
-
-执行时使用
+## 使用
 ```js
 //--content-base：指定了serve的文件目录
 //--inline：自动刷新使用inline模式
@@ -14,3 +13,11 @@ webpack-dev-server --content-base build --inline --hot
 ```js
 npm run dev
 ```
+
+## loaders
+使用了如下一些loader
+* babel-loader
+* css-loader
+* style-loader
+* url-loader
+* file-loader
